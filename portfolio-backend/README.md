@@ -48,4 +48,24 @@ $ npm run test:e2e
 # cobertura de pruebas
 $ npm run test:cov
 ```
+## 💻 Tecnologías Utilizadas
+- NestJS
+- TypeScript
+- Jest (para pruebas)
+
+## 🤝 Contribución
+Si deseas contribuir a este proyecto, por favor:
+
+- Haz un fork del repositorio
+- Crea una rama para tu característica (git checkout -b feature/amazing-feature)
+- Haz commit de tus cambios (git commit -m 'Add some amazing feature')
+- Haz push a la rama (git push origin feature/amazing-feature)
+- Abre un Pull Request
+  
+## 📄 Licencia
+- Este proyecto está bajo la Licencia MIT - ver el archivo LICENSE para más detalles.
+
+## 📞 Contacto
+- Desarrollador: Ing. Julian Quimbayo Castro
+- GitHub: @jaquimbayoc7
 
