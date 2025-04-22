@@ -17,7 +17,7 @@
   <a href="https://twitter.com/nestframework" target="_blank"><img src="https://img.shields.io/twitter/follow/nestframework.svg?style=social&label=Follow" alt="Síguenos en Twitter"></a>
 </p>
 
-## Descripción
+## Descripción del Backend
 
 [Nest](https://github.com/nestjs/nest) es un repositorio inicial de TypeScript para el framework NestJS.
 
