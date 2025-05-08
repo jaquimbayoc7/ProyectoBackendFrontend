@@ -3,6 +3,6 @@ import React from 'react'
 
 export default function PagePortfolio() {
   return (
-    <Layout>Page Portofolio|</Layout>
+    <Layout>PagePortfolio</Layout>
   )
 }

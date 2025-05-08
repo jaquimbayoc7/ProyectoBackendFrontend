@@ -3,6 +3,6 @@ import React from 'react'
 
 export default function PageResume() {
   return (
-    <Layout>Page Resumen</Layout>
+    <Layout>PageResume</Layout>
   )
 }
