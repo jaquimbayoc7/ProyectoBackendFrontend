@@ -1,2 +1,12 @@
 @import "tailwindcss";
 
+/* Agrega tu clase personalizada aquí abajo */
+.no-scrollbar::-webkit-scrollbar {
+    display: none;
+}
+
+/* Para IE, Edge (versiones antiguas) y Firefox */
+.no-scrollbar {
+    -ms-overflow-style: none;  /* IE y Edge */
+    scrollbar-width: none;  /* Firefox */
+}
