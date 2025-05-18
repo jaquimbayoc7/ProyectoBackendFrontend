@@ -1,8 +1,12 @@
+"use client"
 import Activity from "@/modules/activity/components/activity.component";
 import Layout from "@/modules/layouts/layout";
 import SoftSkill from "@/modules/soft-skill/components/soft-skill.component";
 
+
+
 export default function Home() {
+ 
   return (
     <Layout>
       <section className="text-white">
